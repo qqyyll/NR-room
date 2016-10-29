@@ -1,9 +1,9 @@
 /* Color */
 .icon-chat-host + span {
-  color:#8B0000 !important;
+  color:#FF0000 !important;
   }
 .icon-chat-cohost + span {
-  color:null !important;
+  color:#FF0000 !important;
   }
 .icon-chat-manager + span {
   color:null !important;
