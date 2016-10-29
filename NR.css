@@ -3,11 +3,10 @@
 @import url('https://rawgit.com/qqyyll/NR-room/master/users.css');]
 
 #dj-button {
- background: #00BFFF !important; 
  border-radius: 6px;
 }
 
 #dj-button .left {
- background: #00bfff;
+ background: #00bfff !important;
  border-radius: 6px;
 }
