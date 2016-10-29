@@ -21,5 +21,8 @@
 .icon-chat-host + span {
  background: url('https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png') !important;
 }
+.icon-chat-cohost + span {
+  background: url('https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png') !important;
+}
 
 /* Backgrounds */
