@@ -2,6 +2,22 @@
 @import url('https://rawgit.com/qqyyll/NR-room/master/staff.css');
 @import url('https://rawgit.com/qqyyll/NR-room/master/users.css');]
 
+/* Buttons de cima do chat */
+#chat-sound-button {
+ background: #00BFFF !important;
+ }
+#chat-emoji-button {
+ background: #00BFFF !important;
+}
+#chat-mentions-button {
+ background: #00BFFF !important;
+}
+#chat-popout-button {
+ background: #00BFFF !important;
+}
+/* Buttons de cima do chat */
+
+
 #dj-button {
  border-radius: 6px;
 }
