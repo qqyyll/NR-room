@@ -3,7 +3,7 @@
 @import url('https://rawgit.com/qqyyll/NR-room/master/users.css');]
 
 /* Buttons de cima do chat */
-#chat-sound-button {
+#chat-sound-button .chat-header-button {
  background: #00BFFF !important;
  }
 #chat-emoji-button {
