@@ -15,3 +15,11 @@
   color:null !important;
  }
 /* Color */
+
+/* Backgrounds */
+
+.icon-chat-host + span {
+ background: url('https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png') !important;
+}
+
+/* Backgrounds */
