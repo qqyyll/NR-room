@@ -17,12 +17,12 @@
 }
 /* Buttons de cima do chat */
 
-
-#dj-button {
- border-radius: 50px;
-}
+/* Botão DJ */
 
 #dj-button .left {
- background: #2F4F4F !important;
- border-radius: 50px;
+background: rgba(206,25,55,0.5) !important;
 }
+
+#dj-button {
+border-radius: 50px 10px 10px 50px;
+background: #0b0d0f;}
