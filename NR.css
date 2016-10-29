@@ -19,10 +19,10 @@
 
 
 #dj-button {
- border-radius: 100px;
+ border-radius: 50px;
 }
 
 #dj-button .left {
- background: #00bfff !important;
- border-radius: 6px;
+ background: #2F4F4F !important;
+ border-radius: 50px;
 }
