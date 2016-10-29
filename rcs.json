@@ -30,7 +30,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
