@@ -31,7 +31,7 @@
         "admin": null,
         "ambassador": null,
         "host": "https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png",
-        "cohost": null,
+        "cohost": "https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png",
         "manager": null,
         "bouncer": null,
         "rdj": null,
