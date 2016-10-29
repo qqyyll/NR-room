@@ -18,10 +18,10 @@
 
 /* Backgrounds */
 
-.icon-chat-host + span {
+.icon-chat-host {
  background: url('https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png') !important;
 }
-.icon-chat-cohost + span {
+.icon-chat-cohost {
   background: url('https://rawgit.com/qqyyll/NR-room/master/Host-Co-Host.png') !important;
 }
 
