@@ -18,5 +18,9 @@ background: #0b0d0f;}
 
 .experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
 	background: #f13089 !important;
+}
   
 /* --------------------------- */
+#user-rollover .username {
+background: #f13089 !important;	
+}
