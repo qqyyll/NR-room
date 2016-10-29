@@ -1,0 +1,17 @@
+/* Color */
+.icon-chat-host + span {
+  color:#2F4F4F !important;
+  }
+.icon-chat-cohost + span {
+  color:null !important;
+  }
+.icon-chat-manager + span {
+  color:null !important;
+  }
+.icon-chat-bouncer + span {
+  color:null !important;
+  }
+.icon-chat-dj + span {
+  color:null !important;
+ }
+/* Color */
