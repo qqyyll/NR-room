@@ -2,7 +2,7 @@
     "room": "Ninja Room",
     "author": "Tarracha",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/qqyyll/NR-room/master/NR.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
