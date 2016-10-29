@@ -2,25 +2,10 @@
 @import url('https://rawgit.com/qqyyll/NR-room/master/staff.css');
 @import url('https://rawgit.com/qqyyll/NR-room/master/users.css');]
 
-/* Buttons de cima do chat */
-#chat-sound-button .chat-header-button {
- background: #00BFFF !important;
- }
-#chat-emoji-button {
- background: #00BFFF !important;
-}
-#chat-mentions-button {
- background: #00BFFF !important;
-}
-#chat-popout-button {
- background: #00BFFF !important;
-}
-/* Buttons de cima do chat */
-
 /* Botão DJ */
 
 #dj-button .left {
-background: rgba(206,25,55,0.5) !important;
+background: rgba(241,48,137,0.4) !important;
 }
 
 #dj-button {
