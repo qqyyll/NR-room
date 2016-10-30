@@ -21,6 +21,6 @@ background: rgba(0,0,0,0.4);
 }
   
 /* --------------------------- */
-#user-rollover .username + span {
+#user-rollover span.username {
 background: rgba(241,48,137,1);	
 }
